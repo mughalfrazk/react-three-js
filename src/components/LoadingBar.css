@@ -1,0 +1,13 @@
+.loading_bar__container {
+  height: 30px;
+  width: 400px;
+  border: 2px solid white;
+  border-radius: 3rem;
+  padding: 2px;
+}
+
+.loading_bar {
+  height: 100%;
+  border-radius: 3rem;
+  background-color: white;
+}
